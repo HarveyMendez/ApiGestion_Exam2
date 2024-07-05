@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Documents\\api\\ApiGestion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88432314-A4DE-476F-9549-AE045561F820}|ApiGestion.csproj|c:\\users\\diego\\documents\\api\\apigestion\\controllers\\gestionfarmaciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88432314-A4DE-476F-9549-AE045561F820}|ApiGestion.csproj|solutionrelative:controllers\\gestionfarmaciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionFarmaciaController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Documents\\api\\ApiGestion\\Controllers\\GestionFarmaciaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GestionFarmaciaController.cs",
+              "ToolTip": "C:\\Users\\diego\\Documents\\api\\ApiGestion\\Controllers\\GestionFarmaciaController.cs",
+              "RelativeToolTip": "Controllers\\GestionFarmaciaController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T00:50:37.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
